@@ -11,6 +11,8 @@
 * ln : établit un lien vers un fichier
 * rename : permet de renommer un fichier
 * vim + nom fichier : permet l'utilisation du logiciel de traitement de texte vim
+* echo : permet d'écrire du texte sur une ligne
+* cat : permet d'afficher le contenu d'un fichier
 
 ## Gestion utilisateur :
 
