@@ -13,7 +13,7 @@ Une fois dans le dossier cible :
 * git add README.md : ajoute un fichier dens le dépôt git
 * git commit -m "first commit" : permet d'enregistrer les modifications apportées à un fichier
 * git branch -M main (renomme la branche master en main => problème gifthub)
-* git remote add origin https://github.com/drnau/nom_repo_.git
+* git remote add origin https://github.com/nom_utilisateur/nom_repo_.git
 * git push -u origin main : permet d'ajouter le fichier ou les modifs sur GitHub
 
 ## Ajouter un nouveau fichier :
