@@ -9,12 +9,12 @@
 
 Une fois dans le dossier cible :
 * echo "#test" >> README.md
-* git init
-* git add README.md
-* git commit -m "first commit"
-* git branch -M main
+* git init : transforme le dossier en dépot git
+* git add README.md : ajoute un fichier de le dépôt git
+* git commit -m "first commit" : permet d'enregistrer les modifications apportées à un fichier
+* git branch -M main (renomme la branche master en main => problème gifthub)
 * git remote add origin https://github.com/drnau/nom_repo_.git
-* git push -u origin main
+* git push -u origin main : permet d'ajouter le fichier ou les modifs sur GitHub
 
 ## Ajouter un nouveau fichier :
 
