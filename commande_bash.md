@@ -1,4 +1,4 @@
-# Commande utile pour bash :
+# Commande utile pour le terminal :
 
 ## Gestion des dossiers :
 
